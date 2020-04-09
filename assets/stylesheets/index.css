@@ -496,7 +496,7 @@ aside {
   grid-row: 2;
 }
 
-footer footer {
+.footer {
   grid-column: 2/-2;
   grid-row: 2;
   display: flex;
@@ -543,7 +543,7 @@ footer footer * {
 }
 
 .share_sub button {
-  flex: 2;
+  flex: 1.5;
   margin-right: 5em;
 }
 
